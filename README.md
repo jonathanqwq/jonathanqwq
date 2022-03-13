@@ -5,8 +5,8 @@
 - 📝 I like writing in: [my blog](https://jonathanqwq.github.io/blog), [python-class](https://jonathanqwq.github.io/python-class)
 - 🖥 Using system: Windows(HUAWEI mate D14), ipadOS(ipad air4) 
 - 📫 How to reach me?: 2841306779@qq.com
+<br>
 |![](https://github-readme-stats.vercel.app/api?username=jonathanqwq&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs?username=jonathanqwq&exclude_repo=jonathanqwq.github.io&hide=c&layout=compact)|
-| ------------- | ------------- |
 
 
 <!--
